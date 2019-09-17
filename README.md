@@ -18,3 +18,5 @@
      We'll explain what `App` is later.
 
 6. Show `src/App.js` - show the "HTML" - we'll explain what this is soon.
+
+7. Open browser and code side by side! Change something! IT RELOADS BY ITSELF! GO NUTS!
