@@ -7,7 +7,7 @@
 
 2. Create a react add `yarn create react-app`
 
-3. Run the application - show it in the browser
+3. Run the application - show it in the browser - show the react dev tools
 
 4. Show that `public/index.html` is _empty_
 
