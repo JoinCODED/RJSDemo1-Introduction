@@ -2,7 +2,6 @@
 
 1. Run through the installation from warehouse (students should follow along):
 
-   - [React Dev Tools](https://warehouse.joincoded.com/workshop/react-1-introduction/setup/react-developer-tools/)
    - [Babel Syntax Highlighting](https://warehouse.joincoded.com/workshop/react-1-introduction/setup/babel-syntax-highlighting/)
 
 2. Create a react add `yarn create react-app`
