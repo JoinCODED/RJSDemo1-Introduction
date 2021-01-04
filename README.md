@@ -4,7 +4,7 @@
 
    - [Babel Syntax Highlighting](https://warehouse.joincoded.com/workshop/react-1-introduction/setup/babel-syntax-highlighting/)
 
-2. Create a react add `yarn create react-app`
+2. Create a react add `yarn create react-app app_name`
 
 3. Run the application - show it in the browser - show the react dev tools
 
